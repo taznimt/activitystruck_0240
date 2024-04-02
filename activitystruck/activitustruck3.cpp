@@ -24,4 +24,16 @@ int main() {
 	cout << "\t nama Kota = ";
 	cin >> mhs.alamat.kota;
 
+	cout << "Umur Mahsiswa = ";
+	cin >> mhs.umur;
+
+	cout << endl;
+	cout << "\n NIM = " << mhs.nim;
+	cout << "\n Nama = " << mhs.nama;
+	cout << "\n Alamat = ";
+	cout << "\n Desa = " << mhs.alamat.desa;
+	cout << "\n Kota = " << mhs.alamat.kota;
+	cout << "\n Umur = " << mhs.umur;
+}
+
 }
