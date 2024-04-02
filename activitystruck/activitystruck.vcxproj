@@ -130,6 +130,7 @@
     <ClCompile Include="activitustruck3.cpp" />
     <ClCompile Include="activitystruck.cpp" />
     <ClCompile Include="activitystruck2.cpp" />
+    <ClCompile Include="activitystruck4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
