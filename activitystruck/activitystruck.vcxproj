@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="activitustruck3.cpp" />
     <ClCompile Include="activitystruck.cpp" />
     <ClCompile Include="activitystruck2.cpp" />
   </ItemGroup>
