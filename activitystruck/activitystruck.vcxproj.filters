@@ -18,5 +18,8 @@
     <ClCompile Include="activitystruck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="activitystruck2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
