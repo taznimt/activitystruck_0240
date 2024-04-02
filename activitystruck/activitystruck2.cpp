@@ -7,4 +7,7 @@ struct DetailAlamat {
 	string  provinsi;
 };
 
+struct mahasiswa(){
+
+}
 
