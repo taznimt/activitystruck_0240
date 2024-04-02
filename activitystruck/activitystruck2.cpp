@@ -14,14 +14,18 @@ struct mahasiswa(){
 	string umur;
 }
 int main() {
-    Mahasiswa mhs;
-    cout << "Nomor Mahasiswa : ";
+    mahasiswa mhs;
+    cout << "nomor mahasiswa : ";
     cin >> mhs.nim;
-    cout << "Nama Mahasiswa : ";
+    cout << "nama mahasiswa  : ";
     cin >> mhs.nama;
-    cout << "Alamat Mahasiswa : ";
-    cin >> mhs.alamat;
-    cout << "Umur Mahasiswa : ";
+
+    cout << "alamat mahasiswa : " << endl;
+    cout << "\t nama desa : ";
+    cin >> mhs.alamat.desa;
+    cout << "\t Nama Kota : ";
+    cin >> mhs.alamat.kota;
+
+    cout << "umur mahasiswa   : ";
     cin >> mhs.umur;
 }
-
