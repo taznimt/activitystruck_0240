@@ -11,7 +11,7 @@ struct Mahasiswa {
 
 }
 
-int main() {
+int main(){
     Mahasiswa mhs;
     cout << "Nomor Mahasiswa : ";
     cin >> mhs.nim;
@@ -27,6 +27,7 @@ int main() {
     cout << "\n Nama : " << mhs.nama;
     cout << "\n Alamat : " << mhs.alamat;
     cout << "\n Umur : " << mhs.umur;
+
 }
 
 
