@@ -11,10 +11,11 @@ struct Mahasiswa {
 
 }
 
-int main()
-{
-
+int main() {
+    Mahasiswa mhs;
 }
+
+
 
 
 
